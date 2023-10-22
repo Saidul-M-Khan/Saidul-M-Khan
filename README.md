@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! Great to see you.</h1>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -24,19 +24,19 @@ I have completed my Bachelor of Science in Computer Science and Engineering from
 
 I love to solve problems and listen to music.
 
-:hearts: &emsp;I enjoy programming and sharing knowledge <br/>
+:hearts:&emsp;I enjoy programming and sharing knowledge
 
-:computer: &emsp;Most of the time I work with JavaScript <br/>
+:computer:&emsp;Most of the time I work with JavaScript
 
-🌱 I’m currently learning many things, and I believe that everyday is a learning opportunity.
+🌱&emsp;I’m currently learning many things, and I believe that everyday is a learning opportunity.
 
-👯 I’m currently open for work and employment opportunities (remote and offline)
+👯&emsp;I’m currently open for work and employment opportunities (remote and offline)
 
-😄 Pronouns: He, Geek & King 😄
+😄&emsp;Pronouns: He, Geek & King 😄
 
-:partying_face: Fun fact: I love to sing and I love to travel.
+:partying_face:&emsp;Fun fact: I love to sing and I love to travel.
 
-📫 Find me here - saidulmursalinkhan@gmail.com
+📫&emsp;Find me here - saidulmursalinkhan@gmail.com
 
 
 ### Numbers
