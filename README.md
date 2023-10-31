@@ -18,6 +18,8 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
 
+<p align="center"><img src="https://github.com/Saidul-M-Khan/Saidul-M-Khan/blob/main/Daily%20Routine.png" width="300"/></p>
+
 I am a Full Stack Developer with a huge love for Recat.js, Next.js, Node (Express.js), Laravel, RDBMS, TailwindCSS, and Web Architecture. Currently, **I'm open to work and employment opportunities**.
 
 I have completed my Bachelor of Science in Computer Science and Engineering from American International University Bangladesh (AIUB). I Actively code on Laravel, MERN Stack, and APIs (in-house, end-user products, and consumers) every day.
@@ -41,8 +43,6 @@ I love to solve problems and listen to music.
 
 ### Numbers
 ![Saidul-M-Khan's Stats](https://github-readme-stats.vercel.app/api?username=Saidul-M-Khan&theme=darcula&show_icons=true&hide_border=true&count_private=true)
-
-![Saidul-M-Khan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saidul-M-Khan&theme=darcula&hide_border=true)
 
 ![Saidul-M-Khan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saidul-M-Khan&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
