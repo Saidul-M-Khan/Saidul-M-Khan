@@ -56,11 +56,6 @@ I'm continuously expanding my expertise in data engineering, cloud technologies,
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
 
----
-
-<p align="center">
-  <img src="https://github.com/Saidul-M-Khan/Saidul-M-Khan/blob/main/Daily%20Routine.png" width="300" alt="Daily Routine"/>
-</p>
 
 ## 💼 Professional Experience
 
